@@ -82,5 +82,5 @@ The Power BI dashboard will include:
 
 
 
-# Author - Uyathandwa Aubrey Telepe**
+# Author - Uyathandwa Aubrey Telepe 
 Aspiring Data Analyst | Information Science Student | Power BI & SQL Enthusiast
